@@ -38,7 +38,6 @@ body {
 .blog div{
     color: f7beb5;
     margin-bottom: 10px;
-    background-image: url();
 }
 
 .url a {
@@ -47,7 +46,7 @@ body {
 
 .blog {
     color:white;
-    background: #ffffff00;
+    background: rgba(0, 0, 0, 0.3);
     border: 3px solid;
     border-color:#f7beb5;
     padding: 15px;
@@ -102,13 +101,6 @@ h4 {
 form {
     margin-bottom: 20px;
     text-align: right;
-}
-
-#blog {
-    border-color:#f7beb5;
-    border: 3px solid;
-    background: rgba(0, 0, 0, 0.3);
-    color:#f7beb5;
 }
 
 .tableLeft {
