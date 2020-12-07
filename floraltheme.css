@@ -25,10 +25,9 @@ body {
 }
 
 .url.box {
-    color:#FFFFFF;
-    border-color:#f7beb5;
-    border: 3px solid
-
+    color: White;
+    border: 3px solid;
+    border-color: #ffffff00;
 }
 
 .player.box {
@@ -83,9 +82,8 @@ h4 {
 }
 
 .boxInfo {
-    Color:white;
-    border-color:#f7beb5;
-    border: 3px solid ;
+    Color: ffffff00;
+    border: 3px solid #f7beb5;
     margin-bottom: 20px;
     margin-top: 20px;
 }
