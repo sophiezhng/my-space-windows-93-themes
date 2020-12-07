@@ -24,6 +24,10 @@ body {
     background-attachment:fixed;
 }
 
+.extended.box {
+    border-color: White;
+}
+
 .url.box {
     color: White;
     border: 3px solid;
