@@ -12,3 +12,4 @@ Floral Theme: https://sophie-zhangg.github.io/my-space-windows-93-themes/floralt
 ![Floral Theme example](https://i.ibb.co/1GzZRyM/Screen-Shot-2020-12-07-at-7-57-11-PM.png)
 
 Holiday Theme: https://sophie-zhangg.github.io/my-space-windows-93-themes/holidaytheme.css
+![Holiday Theme example](https://i.ibb.co/RDV8fv8/Screen-Shot-2020-12-10-at-5-57-35-PM.png)
