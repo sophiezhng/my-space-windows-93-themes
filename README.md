@@ -7,3 +7,6 @@ I do not own the rights to any gifs or cursors. All credit goes to the original 
 Theme Made by "sophie": https://sophie-zhangg.github.io/my-space-windows-93-themes
 
 To use theme click the link above and copy and paste the specific file into "edit profile > customize > css". Alternatively type: `@import url(https://sophie-zhangg.github.io/my-space-windows-93-themes/[name of theme file]);` into your css 
+
+Floral Theme: https://sophie-zhangg.github.io/my-space-windows-93-themes/floraltheme.css
+![Floral Theme example](https://i.ibb.co/1GzZRyM/Screen-Shot-2020-12-07-at-7-57-11-PM.png)
