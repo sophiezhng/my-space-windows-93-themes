@@ -1,6 +1,4 @@
 # my-space-windows-93-themes
-Floral Theme: https://sophie-zhangg.github.io/my-space-windows-93-themes/floraltheme.css
-![alt text](https://i.ibb.co/1GzZRyM/Screen-Shot-2020-12-07-at-7-57-11-PM.png)
 
 Click on the theme that you want to add to your MySpace page. Copy and paste the specific file into "Edit Your Profile > Customize > CSS". Enjoy your new look and feel free to edit to your preferences!
 
