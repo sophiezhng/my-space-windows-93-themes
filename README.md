@@ -10,3 +10,5 @@ To use theme click the link above and copy and paste the specific file into "edi
 
 Floral Theme: https://sophie-zhangg.github.io/my-space-windows-93-themes/floraltheme.css
 ![Floral Theme example](https://i.ibb.co/1GzZRyM/Screen-Shot-2020-12-07-at-7-57-11-PM.png)
+
+Holiday Theme: https://sophie-zhangg.github.io/my-space-windows-93-themes/holidaytheme.css
