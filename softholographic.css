@@ -96,3 +96,25 @@ div#footer::after{
            margin-right:0;
      }
 }
+
+    .fwiendFace, .tableLeft {
+    transition: 0.5s;
+    background: #ffffff00;
+}
+.fwiendFace:hover {
+    border-radius: 10px;
+    transform: scale(1.2);
+    animation: wob .5s linear infinite;
+    box-shadow: 0 0 1rem #fff;
+    border: 1px solid #f7b5cd;
+    transition: 0.5s;
+}
+
+.tableLeft:hover {
+    border-radius: 30px;
+    transform: scale(0.8);
+    animation: wob .5s linear infinite;
+    box-shadow: 0 0 1rem #fff;
+    border: 1px solid #f7b5cd;
+    transition: 0.5s;
+}
