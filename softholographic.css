@@ -1,14 +1,18 @@
 div#header {
     color: white;
-    background-color: #f7beb5;
     background-image: url(https://i.pinimg.com/originals/ab/e2/af/abe2af5da4b213bab53ef5f136c0112d.jpg);
     background-position: 150px;
     text-align: center;
 }
 
+div#hSub {
+    background-color: #add8e6;
+    text-align: center;
+}
+
 body {
     color: White;
-    background-color: #f7beb5;
+    background-color: #add8e6;
     background-image: url("https://i.gifer.com/7QCE.gif");
     background-size:33%;
     background-attachment:fixed;
@@ -16,7 +20,7 @@ body {
 }
 
 .player.box {
-    background-image: url(https://i.pinimg.com/236x/67/34/a2/6734a267aa9201b50ac9043a14557e85--mermaid-asthetic-ethereal-aesthetic.jpg);
+    background-image: url(https://cdn130.picsart.com/318714987084201.jpg);
     background-size: 33%;
     background-position: 150px;
 }
@@ -82,8 +86,6 @@ div#footer::after{
  
 }
 
- 
- 
 @keyframes slideup{
      from {
            margin-right:-100%;
