@@ -5,11 +5,12 @@ div#header {
     background-image: url(https://data.whicdn.com/images/342108134/original.gif);
     background-position: 150px;
     text-align: center;
+    font-family: "Courier New", monospace;
 }
 
 div#hSub {
-    background-color: #add8e6;
     text-align: center;
+    font-family: "Courier New", monospace;
 }
 
 body {
