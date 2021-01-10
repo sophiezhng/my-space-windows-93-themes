@@ -1,14 +1,9 @@
-.logo {
-    color: white !important;
-    text-align: centre;
-}
-
 div#header {
     color: white;
     background-color: #f7beb5;
     background-image: url(https://i.pinimg.com/originals/ab/e2/af/abe2af5da4b213bab53ef5f136c0112d.jpg);
     background-position: 150px;
-    text-align: centre;
+    text-align: center;
 }
 
 body {
