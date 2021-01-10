@@ -13,7 +13,7 @@ div#hSub {
 }
 
 body {
-    color: White;
+    color: white;
     background-color: #add8e6;
     background-image: url("https://i.gifer.com/7QCE.gif");
     background-size:33%;
@@ -60,18 +60,6 @@ body {
     }
 }
  
-.fwiendFace:hover{
-     animation:shake 1s;
-     animation-iteration-count:infinite;
-}
- 
- 
-@keyframes shake {
- 
-0% {
-    transform:translate(1px,1px) rotate(0deg);
-}
- 
 div#footer{
      bottom:0;
      font-size:0;
@@ -97,16 +85,18 @@ div#footer::after{
      }
 }
 
-    .fwiendFace, .tableLeft {
+.fwiendFace, .tableLeft {
     transition: 0.5s;
     background: #ffffff00;
 }
+
 .fwiendFace:hover {
     border-radius: 10px;
     transform: scale(1.2);
     animation: wob .5s linear infinite;
+    background: #ffffff00;
     box-shadow: 0 0 1rem #fff;
-    border: 1px solid #f7b5cd;
+    border: 1px solid #add8e6;
     transition: 0.5s;
 }
 
@@ -115,6 +105,15 @@ div#footer::after{
     transform: scale(0.8);
     animation: wob .5s linear infinite;
     box-shadow: 0 0 1rem #fff;
-    border: 1px solid #f7b5cd;
+    border: 1px solid #add8e6;
     transition: 0.5s;
+}
+
+.tableRight{
+    background: #69c;
+}
+
+.boxHead{
+    color: #cc6633;
+    background: #fc9;
 }
