@@ -4,9 +4,7 @@ Click on the theme that you want to add to your MySpace page. Copy and paste the
 
 I do not own the rights to any gifs or cursors. All credit goes to the original creators on giphy, cursors-4u.com , or other specified sites. All themes are free and all I ask is that you copy and paste the following text onto your profile:
 
-Theme Made by "sophie": [https://sophiezhng.github.io/my-space-windows-93-themes](https://sophiezhng.github.io/my-space-windows-93-themes)
-
-
+Theme Made by "sophie": [https://sophiezhng.github.io/my-space-windows-93-themes](https://sophiezhng.github.io/my-space-windows-93-themes)\
 Floral Theme:
 ```css
 @import url(https://sophiezhng.github.io/my-space-windows-93-themes/floraltheme.css);
