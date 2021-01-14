@@ -22,4 +22,4 @@ Soft Holographic Theme:
 @import url(https://sophiezhng.github.io/my-space-windows-93-themes/softholographic.css);
 ```
 ![Soft Holographic Theme example](https://i.ibb.co/MhxxYzH/Screen-Shot-2021-01-10-at-2-24-25-PM.png)<br/><br/>
-If you know how, feel free to send in an issue on GitHub if something isn't working :) 
+If you know how, feel free to open an issue on GitHub if something isn't working :) 
