@@ -6,10 +6,6 @@ I do not own the rights to any gifs or cursors. All credit goes to the original 
 
 Theme Made by "sophie": [https://sophiezhng.github.io/my-space-windows-93-themes](https://sophiezhng.github.io/my-space-windows-93-themes)
 
-```css
-@import url(https://sophiezhng.github.io/my-space-windows-93-themes/floraltheme.css);
-```
-
 Floral Theme:
 ```css
 @import url(https://sophiezhng.github.io/my-space-windows-93-themes/floraltheme.css);
