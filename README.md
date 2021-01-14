@@ -26,5 +26,3 @@ If you know how, feel free to open an issue on GitHub if something isn't working
 
 ## Disclaimer
 I am not in any way affiliated with MySpace or Windows 93. All themes are made by me as a personal project.
-
-<script data-ad-client="ca-pub-7938308970930274" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
