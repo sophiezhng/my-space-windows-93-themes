@@ -6,7 +6,11 @@ https://sophiezhng.github.io/my-space-windows-93-themes/
 ---
 **NOTE**
 
-Please give credit if used by linking my github.io page in your bio or in a blog post!!
+Please give credit if used by adding:
+
+> Theme Made by “sophie”: https://sophiezhng.github.io/my-space-windows-93-themes
+
+in your bio or in a blog post!!
 
 ---
 
