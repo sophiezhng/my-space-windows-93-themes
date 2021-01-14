@@ -2,7 +2,12 @@
 
 ### Find themes and instructions here:
 https://sophiezhng.github.io/my-space-windows-93-themes/
+---
+**NOTE**
 
+Please give credit if used by linking my github.io page in your bio or in a blog post!!
+
+---
 ### Author
 Feel free to email me ar sophie.zhangg@icloud.com for business inquiries or friend me on MySpace: https://myspace.windows93.net/index.php?id=31453
 
