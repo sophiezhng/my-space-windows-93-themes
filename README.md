@@ -14,6 +14,6 @@ Floral Theme: [https://sophiezhng.github.io/my-space-windows-93-themes/floralthe
 Holiday Theme: [https://sophiezhng.github.io/my-space-windows-93-themes/holidaytheme.css](https://sophiezhng.github.io/my-space-windows-93-themes/holidaytheme.css)
 ![Holiday Theme example](https://i.ibb.co/RDV8fv8/Screen-Shot-2020-12-10-at-5-57-35-PM.png)
 
-Soft Holographic Theme Made by "sophie": 
+Soft Holographic Theme: 
 [https://sophiezhng.github.io/my-space-windows-93-themes/softholographic.css](https://sophiezhng.github.io/my-space-windows-93-themes/softholographic.css)
 ![Soft Holographic Theme example](https://i.ibb.co/MhxxYzH/Screen-Shot-2021-01-10-at-2-24-25-PM.png)
