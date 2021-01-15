@@ -1,0 +1,187 @@
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/symbols/sym-9/sym829.ani), url(https://ani.cursors-4u.net/symbols/sym-9/sym829.png), auto !important;} /* End https://www.cursors-4u.com */
+
+.logo{
+      font-size:0;
+}
+
+.logo::after{
+    content:"cotten candy heart ❤";
+    text-shadow: 2px 2px 4px #000;
+    color: #fff;
+    line-height: 10px;
+    font-size: 40px;
+    padding: 70px;
+    
+}
+
+div#header {
+    background-image: url(https://i.ibb.co/sK8Mz3C/tumblr-ef48b504d330d0eed928069280ab15cc-d950e318-400.jpg);
+    background-position: 0px -200px;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+div#hSub {
+    color: white !important;
+    background-color: #FF69B4;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+h2#name {
+    color: #FF69B4;
+    text-shadow: 2px 2px 4px #000;
+}
+
+.extended.box {
+    border: 4px solid white;
+}
+
+h4 {
+    color: #FF69B4;
+}
+
+body {
+    color: white;
+    background-color: #ffe0e5;
+    background-image: url("https://cdn73.picsart.com/186510064004202.gif");
+    background-size: 33%;
+    background-attachment:fixed;
+    font-family: "Courier New", monospace;
+}
+
+.player.box {
+    background-color: #dad1ed;
+    background-size: 33%;
+    background-position: 150px;
+    color: white;
+}
+
+.boxInfo.box {
+    border-color: #ffffff00;
+}
+
+.url {
+    background: url(https://i.ibb.co/F6Xx77z/f2845d2875328f409c79b93b3c324ee8.gif) no-repeat;
+    position: fixed;
+    right: 0;
+    bottom: 0px;
+    color: #ffffff00;
+    background-size: 300px;
+    height: 270px;
+    width: 270px;
+    border: none;
+    box-shadow: none;
+    filter: drop-shadow(8px 9px 15px #00000044);
+    z-index: 1000;
+    font-size: 0px;
+    opacity: 1;
+}
+
+.topLeft{
+    background-repeat: no-repeat
+    background-color: #C8A2C8;
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/originals/98/e4/45/98e44537de53f6fe6f908d04702b9a77.gif);
+    border: 2px solid #FF69B4;
+}
+ 
+ 
+.topRight{
+    background: #c7a6e0;
+    position: relative;
+    animation: floating 3s infinite;
+    border: 2px solid #a682c2;
+    max-width: 550px;
+}
+ 
+div#footer{
+     bottom:0;
+     font-size:0;
+     left:500px;
+     position:fixed;
+     pointer-events: none;
+ 
+}
+.fwiendCount {
+    color: #FF69B4;
+}
+
+.fwiendFace, .tableLeft {
+    transition: 0.5s;
+    background: #ffffff00;
+}
+
+.fwiendFace:hover {
+    border-radius: 10px;
+    transform: scale(1.2);
+    animation: wob .5s linear infinite;
+    background: #ffffff00;
+    box-shadow: 0 0 1rem #fff;
+    border: 1px solid #add8e6;
+    transition: 0.5s;
+}
+
+.tableRight{
+    background: #FF69B4;
+}
+
+.boxHead{
+    color: #FFF;
+    background: #FF69B4;
+    
+}
+
+.rightHead{
+    color: #FFF;
+    background: #FF69B4;
+    
+}
+
+a:hover {
+  animation: changeColor 1s linear infinite;
+}
+
+@keyframes changeColor{
+    0%{color:#ff99cc;}
+    10%{color:#CCA6D9;}
+    20%{color:#99B3E6;}
+    30%{color:#66BFF2;}
+    40%{color:#33CCFF;}
+    60%{color:#66BFF2;}
+    70%{color:#99B3E6;}
+    80%{color:#CCA6D9;}
+    90%{color:#FF99CC;}
+    100%{color:#FF99CC;}
+}
+  
+@keyframes floating { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(0, 15px); } 
+    100%   { transform: translate(0, 0px); }
+} 
+
+.fwiendFace, .tableLeft {
+    transition: 0.5s;
+    background: #ffffff00;
+}
+
+.fwiendFace:hover {
+    transform: scale(1.2);
+    animation: wob .5s linear infinite;
+    box-shadow: 0 0 1rem #fff;
+    border: 1px solid #f7b5cd;
+    transition: 0.5s;
+}
+
+.tableLeft:hover {
+    transform: scale(0.8);
+    animation: wob .5s linear infinite;
+    box-shadow: 0 0 1rem #fff;
+    border: 1px solid #f7b5cd;
+    transition: 0.5s;
+}
+
+.box.blog {
+    background: #c7a6e0;
+}
