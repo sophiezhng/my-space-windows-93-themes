@@ -8,7 +8,7 @@ Sweet Tooth Theme 🍭:
 ```css
 @import url(https://sophiezhng.github.io/my-space-windows-93-themes/sweettooth.css);
 ```
-![Sweet Tooth Theme example](https://i.ibb.co/QDqGP8F/Screen-Shot-2021-01-14-at-7-20-54-PM.png)
+![Sweet Tooth Theme example](https://i.ibb.co/nzjbL3f/Screen-Shot-2021-01-14-at-7-45-10-PM.png)
 
 Soft Holographic Theme ☁️☁️🌅: 
 ```css
