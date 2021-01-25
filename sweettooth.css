@@ -80,6 +80,7 @@ body {
 }
 
 .topLeft{
+    margin-top: 20px;
     background-repeat: no-repeat
     background-color: #C8A2C8;
     background-size: cover;
@@ -157,10 +158,13 @@ a:hover {
 }
   
 @keyframes floating { 
-    0% { transform: translate(0,  0px); } 
-    50%  { transform: translate(0, 15px); } 
-    100%   { transform: translate(0, 0px); }
-} 
+  0%, 100% {
+    top: 20px;
+  }
+  50% {
+    top: 40px;
+  }
+}
 
 .fwiendFace, .tableLeft {
     transition: 0.5s;
