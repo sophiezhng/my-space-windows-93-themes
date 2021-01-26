@@ -1,6 +1,6 @@
 # my-space-windows-93-themes
 
-### Find a bunch of themes and instructions here:
+### Find all my themes and instructions here:
 ### https://sophiezhng.github.io/my-space-windows-93-themes/
 Example:
 ![Image example](https://i.imgur.com/I4cyUPJ.png)
