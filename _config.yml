@@ -4,7 +4,8 @@ url: "https://sophiezhng.github.io/my-space-windows-93-themes"
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
-
+  - jekyll-sitemap
+  
 relative_links:
   enabled: true
   collections: true
