@@ -205,6 +205,10 @@ a:visited {
   color: #ffe194;
 }
 
+a:hover {
+  color: #ffe194;
+}
+
 ::selection { background: #FFB6C175; }
 
 #sMsg, #block, #report, #add, #remove {
