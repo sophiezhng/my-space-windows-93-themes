@@ -87,7 +87,7 @@ body {
     background-repeat: no-repeat
     background-color: #C8A2C8;
     background-image: url(https://data.whicdn.com/images/345087141/original.jpg);
-    border: 2px solid #a7bf93;
+    border: 2px dashed #a7bf93;
 }
  
  
@@ -158,7 +158,7 @@ div#footer{
     background: #a7bf93;
 }
 
-@keyframes slide{
+@keyframes slideinleft{
         from {
                 margin-right: -100%;
         }
@@ -169,10 +169,10 @@ div#footer{
 }
 .topRight{
         animation-duration: 5s;
-        animation-name: slide;
+        animation-name: slideinleft;
 }
 
-@keyframes slidein{
+@keyframes slideinright{
     from {
         margin-left: -100%;
     }
@@ -184,7 +184,7 @@ div#footer{
 }
 .topLeft{
         animation-duration: 5s;
-        animation-name: slidein;
+        animation-name: slideinright;
 }
 
 .fwiendFace:hover{
