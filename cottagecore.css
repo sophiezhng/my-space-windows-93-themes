@@ -105,29 +105,23 @@ body {
 }
 
 .fwiendFace img {
-     border: 4px solid #ffffff;
+     border: 2px solid white;
      border-radius: 50%;
      background-position: center;
-     border-radius: 50%;
      display: absolute;
-     height: 100px;
      object-fit: cover;
+     height: 100px;
      width: 100px;
-     border-width: 2px;
-     border-color: #ffffff;
 }
 
 .tableLeft img{
-    border: 4px solid #ffffff;
+     border: 2px solid white;
      border-radius: 50%;
      background-position: center;
-     border-radius: 50%;
      display: absolute;
-     height: 100px;
      object-fit: cover;
+     height: 100px;
      width: 100px;
-     border-width: 2px;
-     border-color: #ffffff;
 }
 
 .tableRight{
