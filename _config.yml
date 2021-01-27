@@ -5,10 +5,12 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
+google_analytics: G-NETH5YXE1B
 relative_links:
   enabled: true
   collections: true
+  
 include:
   - CONTRIBUTING.md
   - README.md
