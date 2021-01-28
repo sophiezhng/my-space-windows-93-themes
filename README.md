@@ -2,8 +2,6 @@
 
 ### Find all my themes and instructions here:
 ### https://sophiezhng.github.io/my-space-windows-93-themes/
-Example:
-![Image example](https://i.imgur.com/Y4izWgm.png)
 
 ### Table of Contents:
 [Cottagecore Theme 🌿🪴](https://sophiezhng.github.io/my-space-windows-93-themes/#cottagecore-theme)
@@ -15,6 +13,9 @@ Example:
 [Floral Theme 🌼](https://sophiezhng.github.io/my-space-windows-93-themes/#floral-theme)
 
 [Holiday Theme 🎄](https://sophiezhng.github.io/my-space-windows-93-themes/#holiday-theme)
+
+Example:
+![Image example](https://i.imgur.com/Y4izWgm.png)
 
 ---
 **NOTE**
