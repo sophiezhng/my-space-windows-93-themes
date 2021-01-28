@@ -7,9 +7,13 @@ Example:
 
 ### Table of Contents:
 [Cottagecore Theme 🌿🪴](https://sophiezhng.github.io/my-space-windows-93-themes/#cottagecore-theme)
+
 [Sweet Tooth Theme 🍭](https://sophiezhng.github.io/my-space-windows-93-themes/#sweet-tooth-theme)
+
 [Soft Holographic Theme ☁️☁️🌅](https://sophiezhng.github.io/my-space-windows-93-themes/#soft-holo-theme)
+
 [Floral Theme 🌼](https://sophiezhng.github.io/my-space-windows-93-themes/#floral-theme)
+
 [Holiday Theme 🎄](https://sophiezhng.github.io/my-space-windows-93-themes/#holiday-theme)
 
 ---
