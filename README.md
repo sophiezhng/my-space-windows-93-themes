@@ -4,6 +4,8 @@
 ### https://sophiezhng.github.io/my-space-windows-93-themes/
 
 ### Table of Contents:
+[Gothic Glitch Theme 🥀☠️🩸](https://sophiezhng.github.io/my-space-windows-93-themes/#gothic-glitch-theme)
+
 [Cottagecore Theme 🌿🪴](https://sophiezhng.github.io/my-space-windows-93-themes/#cottagecore-theme)
 
 [Sweet Tooth Theme 🍭](https://sophiezhng.github.io/my-space-windows-93-themes/#sweet-tooth-theme)
