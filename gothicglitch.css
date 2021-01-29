@@ -177,6 +177,12 @@ div#footer{
       animation-iteration-count:infinite;
 }
 
+#sMsg, #block, #report, #add, #remove {
+    color: white;
+    background-image: url(https://cdn.everskies.com/media/attachment/0mxsTTt7Yi7uNDU5_Sj3.gif);
+    background-size: 40%;
+}
+
 a {
     color: red;
 }
@@ -188,42 +194,10 @@ a:hover {
 
 ::selection { background: #ff000050; }
 
-.blinkYellow {
-    animation: blinkingTextRed 0.3s infinite;
-    animation-duration: 0.3s;
-    animation-timing-function: ease;
-    animation-delay: 0s;
-    animation-iteration-count: infinite;
-    animation-direction: normal;
-    animation-fill-mode: none;
-    animation-play-state: running;
-    animation-name: blinkingTextRed;
+.blinkYellow, .blinkViolet {
+    animation:blinkingTextRed 0.3s infinite;
 }
 
-#sMsg, #block, #report, #add, #remove {
-    color: white;
-    background-image: url(https://cdn.everskies.com/media/attachment/0mxsTTt7Yi7uNDU5_Sj3.gif);
-    background-size: 40%;
-}
-
-@keyframes blinkingTextRed {
-0% {
-    color: black;
-}
-
-49% {
-    color: red;
-}
-50% {
-    color: red;
-}
-99% {
-    color: red;
-}
-100% {
-    color: black;
-}
-}
 .blinkGreen{
 	animation:blinkingTextWhite 0.3s infinite;
 }
