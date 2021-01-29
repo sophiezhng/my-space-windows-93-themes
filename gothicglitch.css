@@ -1,0 +1,288 @@
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol338.cur), auto !important;} /* End https://www.cursors-4u.com */
+
+.logo{
+      font-size:0;
+}
+
+.logo::after{
+    content:"𝔤𝔬𝔱𝔥𝔰𝔭𝔞𝔠𝔢.𝔠𝔬𝔪";
+    text-shadow: 2px 2px 4px red;
+    color: white;
+    line-height: 10px;
+    font-size: 35px;
+    padding: 70px;
+}
+
+div#header {
+    background-color: black;
+    background-position: 0px -400px;
+    font-family: "Century Gothic";
+    background-size: 30%;
+    background-repeat: repeat;
+    
+    
+}
+
+div#hSub {
+    color: black !important;
+    background-color: red;
+    text-align: right;
+    font-family: "Century Gothic";
+}
+
+h2#name {
+    color: white;
+    text-shadow: 2px 2px 4px red;
+}
+
+.extended.box {
+    border: 2px solid white;
+    background-color: #730000;
+}
+
+h4 {
+    color: red;
+}
+
+body {
+    color: white;
+    background-color: #730000;
+    background-image: url(https://i.pinimg.com/originals/b7/9a/f5/b79af5850ce890e052487cc88ab91251.gif);
+    background-size: 69%;
+    background-attachment:fixed;
+    font-family: "Lucida Console";
+}
+
+.player.box {
+    background-color: #730000;
+    background-size: 33%;
+    background-position: 150px;
+    color: white;
+}
+
+.boxInfo.box {
+    border-color: #ffffff00;
+}
+
+.url {
+    background: url(https://i.pinimg.com/originals/a8/70/dd/a870dd8cbfe3dac52494db0035f82195.gif) no-repeat;
+    position: fixed;
+    right: 50px;
+    bottom: 20px;
+    color: #ffffff00;
+    background-size: 300px;
+    height: 100px;
+    width: 300px;
+    border: none;
+    box-shadow: none;
+    filter: drop-shadow(8px 9px 15px #00000044);
+    z-index: 1000;
+    font-size: 0px;
+    opacity: 1;
+}
+
+.topLeft{
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100% 100%;
+    background-image: url(https://pa1.narvii.com/6737/5f81aa847fd724b6016717163003f1afc129a98a_00.gif);
+    border: 2px solid double red;
+}
+ 
+ 
+.topRight{
+    margin-top: 20px;
+    background: #000000;
+    max-width: 550px;
+    margin-bottom: 20px;
+    border: 2px solid red;
+}
+ 
+
+.fwiendCount {
+    color: red;
+}
+/* This theme is made by "sophie" more can be found at: https://sophiezhng.github.io/my-space-windows-93-themes */
+
+.tableRight{
+    background: #730000;
+}
+
+.boxHead{
+    color: #FFF;
+    background: red;
+    
+}
+
+.rightHead{
+    color: #FFF;
+    background: red;
+    
+}
+
+div#footer{
+     bottom:0;
+     font-size:0;
+     left:500px;
+     position:fixed;
+     pointer-events: none;
+ 
+} 
+
+.fwiendFace, .tableLeft {
+    transition: 0.5s;
+    background: #ffffff00;
+}
+
+.box.blog {
+    background: #730000;
+}
+
+@keyframes slideinleft{
+        from {
+                margin-top: 100%;
+        }
+        to {
+                margin-top: 20px;
+        }
+ 
+}
+.topRight{
+        animation-duration: 5s;
+        animation-name: slideinleft;
+}
+
+@keyframes slideinright{
+    from {
+        margin-top: -100%;
+    }
+   
+    to {
+        margin-top: 20px;
+ 
+    }
+}
+.topLeft{
+        animation-duration: 5s;
+        animation-name: slideinright;
+}
+
+.fwiendFace:hover{
+      animation:shake 0.5s;
+      animation-iteration-count:infinite;
+}
+
+.tableLeft:hover{
+      animation:shake 0.5s;
+      animation-iteration-count:infinite;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+     animation: changeColor 1s linear infinite;
+     text-shadow: 2px 2px 4px red;
+}
+
+::selection { background: #ff000050; }
+
+.blinkYellow {
+    animation: blinkingTextRed 0.3s infinite;
+    animation-duration: 0.3s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: blinkingTextRed;
+}
+
+#sMsg, #block, #report, #add, #remove {
+    color: white;
+    background-image: url(https://cdn.everskies.com/media/attachment/0mxsTTt7Yi7uNDU5_Sj3.gif);
+    background-size: 40%;
+}
+
+@keyframes blinkingTextRed {
+0% {
+    color: black;
+}
+
+49% {
+    color: red;
+}
+50% {
+    color: red;
+}
+99% {
+    color: red;
+}
+100% {
+    color: black;
+}
+}
+     
+@keyframes shake{
+0% {
+transform:translate(1px,1px) rotate(0deg);
+}
+ 
+10% {
+transform:translate(-1px,-2px) rotate(-1deg);
+}
+ 
+20% {
+transform:translate(-3px,0px) rotate(1deg);
+}
+ 
+30% {
+transform:translate(3px,2px) rotate(0deg);
+}
+ 
+40% {
+transform:translate(1px,-1px) rotate(1deg);
+}
+ 
+50% {
+transform:translate(-1px,2px) rotate(-1deg);
+}
+ 
+60% {
+transform:translate(-3px,1px) rotate(0deg);
+}
+ 
+70% {
+transform:translate(3px,1px) rotate(-1deg);
+}
+ 
+80% {
+transform:translate(-1px,-1px) rotate(1deg);
+}
+ 
+90% {
+transform:translate(1px,2px) rotate(0deg);
+}
+ 
+100% {
+transform:translate(1px,1px) rotate(0deg);
+}
+ 
+}
+
+@keyframes changeColor{
+    0%{color:white;}
+    10%{color: red;}
+    20%{color: white;}
+    30%{color: red;}
+    40%{color:white;}
+    50%{color: red}
+    60%{color: white;}
+    70%{color: red;}
+    80%{color: white;}
+    90%{color: red;}
+    100%{color: white;}
+}
