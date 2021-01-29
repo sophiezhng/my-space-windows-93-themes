@@ -27,7 +27,7 @@ div#hSub {
     color: black !important;
     background-color: red;
     text-align: right;
-    font-family: "Century Gothic";
+    font-family: Century Gothic, ITC Avant Garde Gothic, Apple Gothic, URW Gothic L, Verdana, Geneva, sans-serif;
 }
 
 h2#name {
@@ -50,7 +50,7 @@ body {
     background-image: url(https://i.pinimg.com/originals/b7/9a/f5/b79af5850ce890e052487cc88ab91251.gif);
     background-size: 69%;
     background-attachment:fixed;
-    font-family: "Lucida Console";
+    font-family: Century Gothic, ITC Avant Garde Gothic, Apple Gothic, URW Gothic L, Verdana, Geneva, sans-serif;
 }
 
 .player.box {
