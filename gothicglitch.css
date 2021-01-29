@@ -224,7 +224,29 @@ a:hover {
     color: black;
 }
 }
-     
+.blinkGreen{
+	animation:blinkingTextWhite 0.3s infinite;
+}
+
+@keyframes blinkingTextWhite {
+0% {
+    color: black;
+}
+
+49% {
+    color: white;
+}
+50% {
+    color: white;
+}
+99% {
+    color: white;
+}
+100% {
+    color: black;
+}
+}
+
 @keyframes shake{
 0% {
 transform:translate(1px,1px) rotate(0deg);
