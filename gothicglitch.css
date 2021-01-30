@@ -281,3 +281,11 @@ transform:translate(1px,1px) rotate(0deg);
     90%{color: red;}
     100%{color: white;}
 }
+
+.fwiendFace img {
+     filter: grayscale(100%);
+}
+
+.tableLeft img{
+     filter: grayscale(100%);
+}
