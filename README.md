@@ -24,7 +24,7 @@ Example:
 
 Please give credit if used by adding:
 
-> Theme Made by “sophie”: https://sophiezhng.github.io/my-space-windows-93-themes
+Theme Made by sophie: https://sophiezhng.github.io/my-space-windows-93-themes
 
 in your bio or in a blog post!!
 
