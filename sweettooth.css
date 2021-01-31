@@ -79,7 +79,7 @@ body {
     opacity: 1;
 }
 /* This theme is made by "sophie" more can be found at: https://sophiezhng.github.io/my-space-windows-93-themes */
-.topLeft{
+.topLeft {
     margin-top: 20px;
     background-repeat: no-repeat
     background-color: #C8A2C8;
@@ -89,7 +89,7 @@ body {
 }
  
  
-.topRight{
+.topRight {
     background: #c7a6e0;
     position: relative;
     animation: floating 3s infinite;
@@ -97,7 +97,7 @@ body {
     max-width: 550px;
 }
  
-div#footer{
+div#footer {
      bottom:0;
      font-size:0;
      left:500px;
