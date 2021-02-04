@@ -26,40 +26,7 @@ body {
     background-size: 33%;
     background-position: 150px;
 }
-/* This theme is made by "sophie" more can be found at: https://sophiezhng.github.io/my-space-windows-93-themes */
-.topLeft {
-    animation-duration:1.5s;
-    animation-name:slidein;
-}
- 
- 
-@keyframes slidein{
-    from {
-        margin-left:-100%;
-}
- 
- 
-     to {
-       margin-left:0;
-     }
-}
- 
- 
-.topRight{
-     animation-duration:1.5s;
-     animation-name:slide;
-}
- 
-@keyframes slide{
-    from {
-        margin-right:-100%;
-}
-    to {
-         margin-right:0;
- 
-    }
-}
- 
+/* This theme is made by "sophie" more can be found at: https://sophiezhng.github.io/my-space-windows-93-themes */ 
 div#footer{
      bottom:0;
      font-size:0;
@@ -67,22 +34,6 @@ div#footer{
      position:fixed;
      pointer-events: none;
  
-}
- 
- 
-div#footer::after{
-     animation-duration:1.5s;
-     animation-name:slideup;
- 
-}
-
-@keyframes slideup{
-     from {
-           margin-right:-100%;
-}
-     to {
-           margin-right:0;
-     }
 }
 
 .fwiendFace, .tableLeft {
