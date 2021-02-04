@@ -87,7 +87,14 @@ body {
     background-image: url(https://i.pinimg.com/originals/98/e4/45/98e44537de53f6fe6f908d04702b9a77.gif);
     border: 2px solid #FF69B4;
 }
- 
+
+.topRight {
+    background: #c7a6e0;
+    position: relative;
+    border: 2px solid #a682c2;
+    max-width: 550px;
+}
+
 div#footer {
      bottom:0;
      font-size:0;
