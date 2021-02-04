@@ -158,35 +158,6 @@ div#footer{
     background: #a7bf93;
 }
 
-@keyframes slideinleft{
-        from {
-                margin-right: -100%;
-        }
-        to {
-                margin-right: 0%;
-        }
- 
-}
-.topRight{
-        animation-duration: 5s;
-        animation-name: slideinleft;
-}
-
-@keyframes slideinright{
-    from {
-        margin-left: -100%;
-    }
-   
-    to {
-        margin-left: 0%;
- 
-    }
-}
-.topLeft{
-        animation-duration: 5s;
-        animation-name: slideinright;
-}
-
 .fwiendFace:hover{
       animation:shake 0.5s;
       animation-iteration-count:infinite;
