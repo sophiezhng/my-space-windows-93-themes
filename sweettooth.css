@@ -89,6 +89,8 @@ body {
 }
 
 .topRight {
+    margin-top: 20px;
+    margin-bottom: 20px;
     background: #c7a6e0;
     position: relative;
     border: 2px solid #a682c2;
