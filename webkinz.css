@@ -1,0 +1,275 @@
+* {
+    cursor: url("https://i.imgur.com/X2xkXfw.png"), default;
+}
+
+.logo{
+      font-size:0;
+}
+
+div#header {
+    background-color: transparent;
+    background-position: 0px -400px;
+    text-align: center;
+    border-color: transparent;
+    background-repeat: repeat;
+    font-family: Comic Sans MS;
+    
+}
+
+div#hSub {
+    color: white;
+    background-color: transparent;
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+.extended.box {
+    border: 2px solid #694c9c;
+    background-color: #BE9DF9;
+}
+
+#name, h4 {
+    color: #FFFF00;
+}
+
+body {
+    color: white;
+    background-color: #23408C;
+    background: url(https://i.imgur.com/pLW000f.png) no-repeat;
+    font-family: Comic Sans MS;
+    text-shadow: 
+                /* first layer at 1px */
+        -1px -1px 0px #000,
+         0px -1px 0px #000,
+         1px -1px 0px #000,
+        -1px  0px 0px #000,
+         1px  0px 0px #000,
+        -1px  1px 0px #000,
+         0px  1px 0px #000,
+         1px  1px 0px #000,
+        /* second layer at 2px */
+        -2px -2px 0px #000,
+        -1px -2px 0px #000,
+         0px -2px 0px #000,
+         1px -2px 0px #000,
+         2px -2px 0px #000,
+         2px -1px 0px #000,
+         2px  0px 0px #000,
+         2px  1px 0px #000,
+         2px  2px 0px #000,
+         1px  2px 0px #000,
+         0px  2px 0px #000,
+        -1px  2px 0px #000,
+        -2px  2px 0px #000,
+        -2px  1px 0px #000,
+        -2px  0px 0px #000,
+        -2px -1px 0px #000;
+}
+
+.player.box {
+    position: fixed;
+    right: 400px;
+    top: 70px;
+    background-color: transparent;
+    color: white;
+    border: 0px;
+    width: 300px;
+    z-index: 1000;
+    
+}
+
+.boxInfo.box {
+    border-color: #ffffff00;
+}
+
+.url {
+    background: url(https://i.imgur.com/OBOd4DK.png) no-repeat;
+    position: fixed;
+    left: 0;
+    bottom: -25px;
+    color: #ffffff00;
+    background-size: 1450px;
+    height: 270px;
+    width: 1450px;
+    border: none;
+    box-shadow: none;
+    filter: drop-shadow(8px 9px 15px #00000044);
+    z-index: 1000;
+    font-size: 0px;
+    opacity: 1;
+}
+
+.topLeft {
+    width: 500px;
+    height: 500px;
+    padding: 0px;
+    background-image: url(https://i.imgur.com/0pM5Z8R.png);
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.topLeft.blogCard {
+    width: 500px;
+    height: 500px;
+    overflow-y:scroll;
+}
+
+.topLeft.blogCard img{
+    display: none;
+}
+
+#avatar {
+    width: 100px;
+}
+
+.topRight{
+    background: #1A77E6;
+    border: 3px solid #020A3C;
+    border-radius: 25px;
+    width: 330px;
+    height: 350px;
+    overflow-y:scroll;
+    position: relative;
+    right: 150px;
+    top: 120px;
+}
+ 
+.topRight.blogPost{
+    position: relative;
+    right: 150px;
+    top: 0px;
+}
+
+.fwiendCount {
+    color: #FFFF00;
+}
+/* This theme is made by "sophie" more can be found at: https://sophiezhng.github.io/my-space-windows-93-themes */
+.tableRight{
+    background: #BE9DF9;
+}
+
+.boxHead{
+    display: none;
+    
+}
+
+.rightHead{
+    color: #FFF;
+    background: #379EED;
+    
+}
+
+div#footer{
+     bottom:0;
+     font-size:0;
+     left:500px;
+     position:fixed;
+     pointer-events: none;
+ 
+} 
+
+.fwiendFace, .tableLeft {
+    transition: 0.5s;
+    background: #ffffff00;
+}
+
+.box.blog {
+    background: #BE9DF9;
+}
+
+.fwiendFace:hover{
+      animation:shake 0.5s;
+      animation-iteration-count:infinite;
+}
+
+.tableLeft:hover{
+      animation:shake 0.5s;
+      animation-iteration-count:infinite;
+}
+
+a {
+    color: #FFFF00;
+}
+
+a:hover {
+  animation: changeColor 1s linear infinite;
+}
+
+@keyframes changeColor{
+    0%{color:#FDDB68;}
+    10%{color:#F48190;}
+    20%{color:#CE65BA;}
+    30%{color:#AE73B5;}
+    40%{color:#6880AC;}
+    50%{color:#4892B7;}
+    60%{color:#44BAAA;}
+    70%{color:#6AC66F;}
+    80%{color:#D1EC2B;}
+    90%{color:#FFF011;}
+    100%{color:#FFC16D;}
+}
+
+::selection { background: #F8BF4575; }
+
+#block, #report {
+    display: none;
+}
+
+#sMsg {
+    color: #FFFF00;
+    background-image: url(https://i.imgur.com/0ev77Fb.png);
+    background-size: 15%;
+}
+#add, #remove {
+    color: #FFFF00;
+    background-image: url(https://i.imgur.com/IffBJ8D.png);
+    background-size: 15%;
+}
+
+   
+@keyframes shake{
+    0% {
+        transform:translate(1px,1px) rotate(0deg);
+    }
+ 
+    10% {
+        transform:translate(-1px,-2px) rotate(-1deg);
+    }
+ 
+    20% {
+        transform:translate(-3px,0px) rotate(1deg);
+    }
+ 
+    30% {
+        transform:translate(3px,2px) rotate(0deg);
+    }
+ 
+    40% {
+        transform:translate(1px,-1px) rotate(1deg);
+    }
+ 
+    50% {
+        transform:translate(-1px,2px) rotate(-1deg);
+    }
+ 
+    60% {
+        transform:translate(-3px,1px) rotate(0deg);
+    }
+ 
+    70% {
+        transform:translate(3px,1px) rotate(-1deg);
+    }
+ 
+    80% {
+        transform:translate(-1px,-1px) rotate(1deg);
+    }
+ 
+    90% {
+        transform:translate(1px,2px) rotate(0deg);
+    }
+ 
+    100% {
+        transform:translate(1px,1px) rotate(0deg);
+    }
+ 
+}
