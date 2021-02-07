@@ -13,7 +13,6 @@ in your bio or in a blog post!!
 
 ---
 ### Table of Contents:
-[Webkinz Theme 🦄](https://sophiezhng.github.io/my-space-windows-93-themes/#webkinz-theme)
 
 [Gothic Glitch Theme 🥀☠️🩸](https://sophiezhng.github.io/my-space-windows-93-themes/#gothic-glitch-theme)
 
@@ -26,6 +25,8 @@ in your bio or in a blog post!!
 [Floral Theme 🌼](https://sophiezhng.github.io/my-space-windows-93-themes/#floral-theme)
 
 [Holiday Theme 🎄](https://sophiezhng.github.io/my-space-windows-93-themes/#holiday-theme)
+
+[Webkinz Theme 🦄](https://sophiezhng.github.io/my-space-windows-93-themes/#webkinz-theme) - still in the works
 
 Example:
 ![Image example](https://i.imgur.com/Y4izWgm.png)
