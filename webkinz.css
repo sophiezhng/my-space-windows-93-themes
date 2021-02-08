@@ -80,8 +80,7 @@ body {
     color: white;
     border: 0px;
     width: 300px;
-    z-index: 1000;
-    
+    z-index: 1000; 
 }
 
 .boxInfo.box {
@@ -156,15 +155,14 @@ body {
     width: 330px;
     height: 350px;
     overflow-y:scroll;
-    position: relative;
-    right: 150px;
-    top: 120px;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    margin-top: 120px;
+    right: 350px;
 }
- 
+
 .topRight.blogPost{
-    position: relative;
-    right: 150px;
-    top: 0px;
+    margin-top: -20px;
 }
 
 .fwiendCount {
