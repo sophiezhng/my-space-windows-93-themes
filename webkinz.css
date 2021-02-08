@@ -112,9 +112,22 @@ body {
     width: 500px;
     height: 500px;
     padding: 0px;
+    position: fixed;
+    z-index: 0;
+    top: 175px;
+    right: 760px;
+}
+
+.topLeft::after {
+    content: "";
+    z-index: -1000;
+    width: 500px;
+    height: 500px;
     background-image: url(https://i.imgur.com/0pM5Z8R.png);
     background-repeat: no-repeat;
     position: fixed;
+    top: 50px;
+    right: 800px;
 }
 
 .topLeft.blogCard {
