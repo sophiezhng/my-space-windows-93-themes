@@ -26,7 +26,7 @@ in your bio or in a blog post!!
 
 [Holiday Theme 🎄](https://sophiezhng.github.io/my-space-windows-93-themes/#holiday-theme)
 
-[Webkinz Theme 🦄](https://sophiezhng.github.io/my-space-windows-93-themes/#webkinz-theme) - doesn't work on mobile :(
+[Webkinz Theme 🦄](https://sophiezhng.github.io/my-space-windows-93-themes/#webkinz-theme)
 
 Example:
 ![Image example](https://i.imgur.com/Y4izWgm.png)
