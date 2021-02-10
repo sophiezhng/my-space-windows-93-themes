@@ -1,4 +1,5 @@
 # MySpace Windows 93 Themes
+All themes are written by me!
 
 ### Find all my themes and instructions here:
 ### https://sophiezhng.github.io/my-space-windows-93-themes/
