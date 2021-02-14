@@ -298,3 +298,14 @@ a:hover {
     }
  
 }
+
+.fwiendCounter > b { font-size: 0; }
+.fwiendCounter > b::after, .fwiendCounter > b > .uName, .fwiendCounter > b > .fwiendCount {
+    font-size: 16px;
+}
+.fwiendCounter > b > .uName::after {
+    content: " owns "
+}
+.fwiendCounter > b::after {
+    content: " Webkinz";
+}
