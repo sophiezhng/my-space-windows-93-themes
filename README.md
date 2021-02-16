@@ -1,9 +1,9 @@
 # MySpace Windows 93 Themes
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsophiezhng.github.io%2Fmy-space-windows-93-themes%2F)
-![Stars](https://img.shields.io/github/stars/sophiezhng/my-space-windows-93-themes.svg?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/sophiezhng/my-space-windows-93-themes.svg)
 ![License](https://img.shields.io/github/license/sophiezhng/my-space-windows-93-themes.svg)
+![Stars](https://img.shields.io/github/stars/sophiezhng/my-space-windows-93-themes.svg?style=social)
 
 ### Find all my themes and instructions here:
 ### https://sophiezhng.github.io/my-space-windows-93-themes/
