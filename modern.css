@@ -11,16 +11,12 @@
     color: black !important;
 }
 
-#container:target .box:not(#footer, .comments), #container:target .short, #container:target #name, #container:target .topLeft.blogCard{
+#container:target .box:not(#footer, .comments), #container:target .short, #container:target #name, #container:target .topLeft.blogCard, #container:target .tableRight{
     background-color: white;
 }
 
 #container:target a[href="#container"]:hover, #container:target a[href="#"]:hover {
     border: 1px solid #2e5d69;
-}
-
-#container:target .tableRight {
-    background-color: #ebebeb;
 }
 
 #container:target .logo, #container:target #hSub a{
