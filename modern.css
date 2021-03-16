@@ -178,3 +178,7 @@ code {
     border-image-slice: 1;
     border-image-source: linear-gradient(to left, cyan, blue, magenta);
 }
+
+.shortRight {
+    padding-left: 20px;
+}
