@@ -176,7 +176,7 @@ pre {
 }
 
 code {
-    font-family: monospace;
+    font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
     color: white !important;
 }
 
