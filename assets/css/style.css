@@ -75,12 +75,12 @@ footer{
 
 @font-face {
     font-family: Roboto;
-    src: url(https://sophiezhng.github.io/my-space-windows-93-themes/assets/fonts/Roboto/Roboto-Regular.ttf);
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(https://sophiezhng.github.io/my-space-windows-93-themes/assets/fonts/Roboto/Roboto-Bold.ttf);
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
     font-weight: bold;
 }
 
