@@ -87,13 +87,13 @@ body {
     background-color: black;
     background-size: 100% 100%;
     background-image: url(https://pa1.narvii.com/6737/5f81aa847fd724b6016717163003f1afc129a98a_00.gif);
+    box-sizing: border-box;
 }
  
  
 .topRight{
     margin-top: 20px;
     background: #000000;
-    max-width: 550px;
     margin-bottom: 20px;
     border: 2px solid red;
 }
