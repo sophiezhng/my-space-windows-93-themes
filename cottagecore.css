@@ -88,6 +88,7 @@ body {
     background-color: #C8A2C8;
     background-image: url(https://data.whicdn.com/images/345087141/original.jpg);
     border: 2px dashed #a7bf93;
+    box-sizing: border-box;
 }
  
  
@@ -96,7 +97,6 @@ body {
     background: #00000050;
     border: 2px solid #a7bf93;
     margin-bottom: 20px;
-    max-width: 550px;
 }
  
 
