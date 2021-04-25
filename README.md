@@ -5,14 +5,14 @@
 ![License](https://img.shields.io/github/license/sophiezhng/my-space-windows-93-themes.svg)
 ![Stars](https://img.shields.io/github/stars/sophiezhng/my-space-windows-93-themes.svg?style=social)
 
-### Find all my themes and instructions here:
+### Find all my themes and how to import them here:
 ### https://sophiezhng.github.io/my-space-windows-93-themes/
 ---
-**NOTE**
+**Note**
 
 All themes are original and written by me!
 
-Please give credit if used by adding:
+**Please give credit** if used by adding:
 
 Theme Made by sophie: https://sophiezhng.github.io/my-space-windows-93-themes
 
