@@ -73,6 +73,19 @@ footer{
     bottom:50px;
 }
 
+#how-to {
+    border: 6px outset var(--link-color);
+    padding: 25px 25px 25px 25px;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+    color: var(--main-background-color) !important;
+    background-color: var(--link-color);
+}
+
+#how-to > p {
+    color: var(--main-background-color) !important;
+}
+
 @font-face {
     font-family: Roboto;
     src: url(../fonts/Roboto/Roboto-Regular.ttf);
