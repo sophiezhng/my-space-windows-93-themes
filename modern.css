@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 :root {
     color-scheme: dark; /* both supported */
         
@@ -56,18 +58,7 @@ a[href="#container"]:hover, a[href="#"]:hover {
 }
 
 * {
-    font-family: Roboto;
-}
-
-@font-face {
-  font-family: Roboto;
-  src: url(https://sophiezhng.github.io/my-space-windows-93-themes/assets/fonts/Roboto/Roboto-Regular.ttf);
-}
-
-@font-face {
-  font-family: Roboto;
-  src: url(https://sophiezhng.github.io/my-space-windows-93-themes/assets/fonts/Roboto/Roboto-Bold.ttf);
-  font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 
 #header, #hSub {
