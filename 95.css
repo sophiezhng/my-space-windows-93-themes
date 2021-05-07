@@ -64,7 +64,7 @@ div#hSub {
     overflow: hidden;
 }
 
-.box:not(.topLeft.blogCard > .boxInfo.box, #footer, .comments, .fwiends), .short, #name, .tableLeft, .tableRight, #name, .topLeft.blogCard {
+.box:not(.topLeft.blogCard > .boxInfo.box, #footer, .comments), .short, #name, .tableLeft, .tableRight, #name, .topLeft.blogCard {
     box-shadow: var(--outset);
 }
 
