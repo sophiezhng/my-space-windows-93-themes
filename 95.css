@@ -72,10 +72,6 @@ div#hSub {
     box-shadow: var(--outset);
 }
 
-.boxInfo > a {
-    text-decoration: none;
-}
-
 .short {
     margin-top: 10px;
 }
@@ -176,7 +172,10 @@ button::-moz-focus-inner{border:0}
     color: var(--text-color);
     font-weight: bold;
     line-height: 25px;
-    text-decoration: none !important;
+}
+
+.boxInfo > a {
+    text-decoration: none;
 }
 
 .boxButton:hover{
