@@ -204,7 +204,6 @@ button::-moz-focus-inner{border:0}
     content: url(https://i.imgur.com/1YUx3ch.gif);
     z-index: 0;
     display: inline;
-    width: 30px;
     padding: 0;
     margin: 0px;
 }
