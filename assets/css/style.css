@@ -86,17 +86,6 @@ footer{
     color: var(--main-background-color) !important;
 }
 
-@font-face {
-    font-family: Roboto;
-    src: url(../fonts/Roboto/Roboto-Regular.ttf);
-}
-
-@font-face {
-    font-family: Roboto;
-    src: url(../fonts/Roboto/Roboto-Bold.ttf);
-    font-weight: bold;
-}
-
 /* Adjust to work on all screens */
 @media print, screen and (max-width: 960px){
     div.wrapper{
