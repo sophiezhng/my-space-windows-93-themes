@@ -128,14 +128,13 @@ button{
     min-width:75px;
     min-height:23px;
     padding:0 12px;
-}
-
-.vertical-bar,button{
     background:silver;
-    box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #fff,inset -2px -2px grey,inset 2px 2px #dfdfdf;
+    box-shadow: var(--outset);
 }
 
-.vertical-bar{width:4px;height:20px}
+.fwiendCount {
+    color: #CC6633;
+}
 
 button:not(:disabled):active{
     box-shadow:inset -1px -1px #fff,inset 1px 1px #0a0a0a,inset -2px -2px #dfdfdf,inset 2px 2px grey;
@@ -143,14 +142,6 @@ button:not(:disabled):active{
 }
 
 button:focus{outline:1px dotted #000;outline-offset:-4px}
-
-button::-moz-focus-inner{border:0}
-
-:disabled,:disabled+label{color:grey}
-
-:disabled+label,button:disabled{text-shadow:1px 1px 0 #fff}
-
-.window{box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #dfdfdf,inset -2px -2px grey,inset 2px 2px #fff;background:silver;padding:3px}
 
 .boxButton {
     display: block;
