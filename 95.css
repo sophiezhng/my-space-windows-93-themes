@@ -24,7 +24,6 @@ body {
 
 * {
     font-family: Courier, sans-serif;
-    color: var(--text-color);
 }
 
 #header {
