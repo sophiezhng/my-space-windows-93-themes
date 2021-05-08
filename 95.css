@@ -40,6 +40,10 @@ div#hSub {
     text-align: center;
 }
 
+#hSub a, #header a:not(.logo){
+    color: var(--text-color);
+}
+
 .box:not(.topLeft.blogCard > .boxInfo.box, #footer, .comments, .fwiends), .short, #name, .tableRight {
     padding: 3.5em 2em ;
     margin-bottom: 20px;
@@ -185,4 +189,22 @@ button:focus{outline:1px dotted #000;outline-offset:-4px}
     display: inline;
     padding: 0;
     margin: 0px;
+}
+
+a:hover {
+  animation: changeColor 1.5s linear infinite;
+}
+
+@keyframes changeColor{
+    0%{color:#FDDB68;}
+    10%{color:#F48190;}
+    20%{color:#CE65BA;}
+    30%{color:#AE73B5;}
+    40%{color:#6880AC;}
+    50%{color:#4892B7;}
+    60%{color:#44BAAA;}
+    70%{color:#6AC66F;}
+    80%{color:#D1EC2B;}
+    90%{color:#FFF011;}
+    100%{color:#FFC16D;}
 }
