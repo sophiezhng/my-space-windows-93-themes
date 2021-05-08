@@ -18,9 +18,6 @@ body {
     color: var(--text-color);
 }
 
-.url a, h4, .player, #add, #sMsg, #block, #report {
-    var(--text-color) !important;
-}
 .box:not(#footer, .comments), .short, #name, .topLeft.blogCard, .tableLeft, .tableRight{
     background-color: var(--bkg-color) !important;
 }
@@ -145,12 +142,6 @@ button:not(:disabled):active{
     padding:2px 11px 0 13px;
 }
 
-@media (not(hover)){
-    button:not(:disabled):hover{
-        box-shadow:inset -1px -1px #fff,inset 1px 1px #0a0a0a,inset -2px -2px #dfdfdf,inset 2px 2px grey;
-    }
-}
-
 button:focus{outline:1px dotted #000;outline-offset:-4px}
 
 button::-moz-focus-inner{border:0}
@@ -163,7 +154,7 @@ button::-moz-focus-inner{border:0}
 
 .boxButton {
     display: block;
-    width: 200px;
+    width: 150px;
     height: 25px;
     background: var(--button-color);
     box-shadow: var(--outset);
