@@ -49,7 +49,7 @@ body {
     color: white;
     background-color: #a7bf93;
     background-image: url("https://i.pinimg.com/originals/6c/b0/9a/6cb09a6cdf4f90915bd96ac05a0568e1.gif");
-    background-size: 69%;
+    background-size: cover;
     background-attachment:fixed;
     font-family: monospace;
 }
