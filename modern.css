@@ -186,3 +186,12 @@ code {
 .shortRight {
     padding-left: 20px;
 }
+
+
+.rightHead, .boxHead {
+    color: white;
+    background: rgba(128,128,128,0.5);
+    border: 3px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, cyan, blue, magenta);
+}
